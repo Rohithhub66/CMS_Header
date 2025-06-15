@@ -1,0 +1,102 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1E3A8A;
+  color: white;
+  padding: 15px 30px;
+  font-size: 20px;
+}
+
+.topbar-buttons span,
+.topbar-buttons a,
+.topbar-buttons button {
+  margin-left: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.sidebar {
+  width: 250px;
+  height: 100vh;
+  background-color: #111827;
+  color: white;
+  padding: 20px 0;
+  position: fixed;
+  top: 60px;
+  left: 0;
+}
+
+.sidebar a {
+  display: block;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  background-color: #1E40AF;
+}
+
+.main {
+  margin-left: 220px;
+  padding: 30px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card {
+  background-color: #F3F4F6;
+  border-radius: 10px;
+  padding: 20px;
+  width: 230px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0,0,0,0.15);
+}
+
+.btn {
+  padding: 8px 12px;
+  border: none;
+  background-color: #3B82F6;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.btn.warning {
+  background-color: #FBBF24;
+  color: black;
+}
+
+.btn.danger {
+  background-color: #EF4444;
+}
+
+/* Dark Mode Support */
+body.dark {
+  background-color: #0F172A;
+  color: #F8FAFC;
+}
+body.dark .header { background-color: #1E40AF; }
+body.dark .sidebar { background-color: #1F2937; }
+body.dark .sidebar a { color: #E5E7EB; }
+body.dark .card { background-color: #1E293B; color: #F8FAFC; }
+body.dark .btn { background-color: #60A5FA; }

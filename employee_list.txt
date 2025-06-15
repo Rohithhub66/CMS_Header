@@ -1,0 +1,21 @@
+name,email,username,password,department,manager_name,manager_email
+Alice Johnson,alice.johnson@example.com,ajohnson,Pass@1234,Finance,Robert Smith,robert.smith@example.com
+Brian Lee,brian.lee@example.com,blee,Pass@1234,HR,Susan Clarke,susan.clarke@example.com
+Carla Mendes,carla.mendes@example.com,cmendes,Pass@1234,IT,Daniel Stone,daniel.stone@example.com
+David Kim,david.kim@example.com,dkim,Pass@1234,Marketing,Amanda White,amanda.white@example.com
+Elena Rossi,elena.rossi@example.com,erossi,Pass@1234,Sales,Michael King,michael.king@example.com
+Frank Gupta,frank.gupta@example.com,fgupta,Pass@1234,Finance,Robert Smith,robert.smith@example.com
+Grace Liu,grace.liu@example.com,gliu,Pass@1234,HR,Susan Clarke,susan.clarke@example.com
+Henry Ford,henry.ford@example.com,hford,Pass@1234,IT,Daniel Stone,daniel.stone@example.com
+Isabella Khan,isabella.khan@example.com,ikhan,Pass@1234,Marketing,Amanda White,amanda.white@example.com
+Jack Brown,jack.brown@example.com,jbrown,Pass@1234,Sales,Michael King,michael.king@example.com
+Karen Black,karen.black@example.com,kblack,Pass@1234,Finance,Robert Smith,robert.smith@example.com
+Leo Costa,leo.costa@example.com,lcosta,Pass@1234,HR,Susan Clarke,susan.clarke@example.com
+Maria Tan,maria.tan@example.com,mtan,Pass@1234,IT,Daniel Stone,daniel.stone@example.com
+Nathan Cruz,nathan.cruz@example.com,ncruz,Pass@1234,Marketing,Amanda White,amanda.white@example.com
+Olivia Singh,olivia.singh@example.com,osingh,Pass@1234,Sales,Michael King,michael.king@example.com
+Peter White,peter.white@example.com,pwhite,Pass@1234,Finance,Robert Smith,robert.smith@example.com
+Queenie Adams,queenie.adams@example.com,qadams,Pass@1234,HR,Susan Clarke,susan.clarke@example.com
+Ravi Mehta,ravi.mehta@example.com,rmehta,Pass@1234,IT,Daniel Stone,daniel.stone@example.com
+Sophie Turner,sophie.turner@example.com,sturner,Pass@1234,Marketing,Amanda White,amanda.white@example.com
+Tom Green,tom.green@example.com,tgreen,Pass@1234,Sales,Michael King,michael.king@example.com

@@ -1,0 +1,2251 @@
+Appendix C: Roles
+This Appendix is designed to assist in determining which competency and associated Knowledge and Skills are required by a particular role. Knowledge is the theoretical or practical understanding of the competency.
+Please note that there is no hierarchy within the Knowledge and Skills. No Knowledge or Skill is of greater value than another. The first Knowledge and Skill listed within the knowledge unit has no order preference on those Knowledge and Skills listed elsewhere in list.
+Additionally, the generic roles and job titles used within this Appendix may or may not be the same as the roles or job titles used by and individual Agency or organization. The ones used within this Appendix are a sample of current jobs/roles within various Federal Organizations and organizations at the time of publication. Using the competencies and functions, each of these samples can be tailored to meet the roles within a specific Agency.
+Roles for highly specialized areas are not covered. The roles, and associated knowledge and skills should be tailored by the Agency.
+All roles should have training on the Overall Knowledge and Skills as described within Appendix C, Competencies, Knowledge and Skills Catalog. These are the fundamental basis of knowledge/skills required for all jobs and roles.
+Abilities are not covered in this document. Abilities are the specific skills that are obtained while on the job using the knowledge and skills that were obtained during the role-based security training. Therefore, it is assumed that abilities cannot be taught, but rather acquired throughout the employee’s career.
+The format is as follows:
+•	Function Area: This area corresponds with Appendix A: Function Areas. Appendix A provides a general description of the area and the Learning Objectives for those functions. The roles described within this appendix are within a function;
+•	Role Area: This describes the overall role;
+•	Roles: A list of various job title /roles is provided to assist in determining who should receive this role based training;
+•	Responsibility: Defines the activities and or responsibilities of that particular role;
+•	Knowledge Unit: Identifies the competencies associated with the role. The entire listing of the knowledge units and their associated knowledge and skills are located in Appendix B: Knowledge and Skills Catalog; and
+•	Corresponding Knowledge and Skills Table: This table provides a breakdown of the specific knowledge unit, the corresponding knowledge and skills to each competency. Each role has various knowledge units associated with it. There are 4 differing functional perspectives that
+ 
+correspond with the job title to allow for further tailoring of role-based training to better match with the job role. These areas are defined as follows:
+o	Manage – those knowledge and skills particular to those employees who are responsible for management (e.g., managers, team leads, project managers)
+o	Design – those knowledge and skills particular to those employees who are responsible for design activities (e.g., system developers, engineers)
+o	Implement – those knowledge and skills particular to those employees who execute implementation (e.g., system administrators, network administrators)
+o	Evaluate – those knowledge and skills particular to evaluation activities (e.g., testers, security analysts)
+
+
+To assist with the tailoring of the training or to identify courses/modules that may have already been developed, there is the National Initiative for Cybersecurity Careers and Studies (NICCS) Portal. The government developed the National Initiative for Cybersecurity Careers and Studies (NICCS) to make cybersecurity information and materials more readily-available. NICCS underscores the four components of the National Initiative for Cybersecurity Education (NICE) and serves as a national resource for government, industry, academia, and the general public in their quest to learn about cybersecurity awareness, education, careers, and workforce development opportunities. The portal links to various courses or modules in cybersecurity that have been previously developed and can be reused. The URL is: http://niccs.us-cert.gov
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Operate and Maintain
+
+Role Area: Data Administration
+
+Roles:
+•	Data Security Analyst
+•	Data Management Systems Security
+•	Data Administrator
+•	Database Administrator
+•	Content Staging Specialist
+•	Data Architect
+•	Data Manager
+•	Data Warehouse Specialist
+•	Database Developer
+•	Information Dissemination Manager
+•	Information System Integrator
+
+Responsibility — Develop and administer databases and/or data management systems that allow for the storage, query, and utilization of data.
+
+Knowledge Unit:
+•	Data Security
+•	Digital Forensics
+•	Database
+•	Cryptography and Encryption
+•	Architecture
+•	Identity Management/Privacy
+•	Information Systems
+•	Modeling and Simulation
+•	Incident Management
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Data Security	DS-2 DS-10 DS-18	DS-4	DS: 3 -8
+DS: 13 - 14
+DS: 16	DS: 3 - 6 DS-9
+DS-12 DS: 17-18	DS-9 DS-11 DS-13 DS-15 DS: 17-18
+Digital Forensics				DF-6	DF-7 DF-31
+Database		DB-5	DB-1	DB-2
+DB-4	DB-6	DB-3 DB: 7 - 8
+DB: 9 - 11	
+Cryptography and Encryption		CR-10 CR-12	CR-1	CR-5	CR-3	CR-5 CR-7	CR-9
+
+Architecture		ARCH-15	ARCH-2 ARCH-7 ARCH: 18 – 21	ARCH-1 ARCH-3 ARCH-4 ARCH-9	
+Identity Management
+/Privacy	IM: 1-3 IM-7	IM-9 IM-11	IM-5	IM: 4-6 IM-9	IM-4	IM-5
+IM-8	IM-10 IM-11
+Information Systems	SI: 1-3 SI-10
+SI: 27 -28 SI-30	SI-25	SI-4	SI-5
+SI-9	SI-13
+SI-25	SI-29	SI-5	SI-7
+SI-8	SI-9 SI: 14 - 15
+SI-20	SI-25 SI-29 SI-31	SI-17	SI-26 SI- 31
+Modeling and Simulation			MS: 2 – 3		
+Incident Management	IR-20	IR-2 IR-3 IR-6 IR-14 IR-16 IR- 18		IR-4 IR-12	IR: 2 - 3 IR-14
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Operate and Maintain
+
+Role Area: Knowledge Management
+
+Roles:
+•	Freedom of Information Act Official
+•	Information Owner/Steward
+•	Information Resource Manager
+•	Web Administrator
+•	Business Intelligence Manager
+•	Content Administrator
+•	Document Steward
+•	Information Manager
+•	Information Security Architect
+
+
+Responsibility — Manages and administers processes and tools that enable the organization to identify, document, and access intellectual capital and information content.
+
+Knowledge Unit:
+•	Information Systems
+•	Network and Telecommunications Security
+•	Emerging Technology
+•	Data Security
+•	IT Systems and Operations
+•	Incident Management
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+Information Systems		SI-24	SI: 1-3 SI-22	SI: 1 - 4
+SI: 7 - 8 SI-13
+SI-22 SI-24	
+Network and Telecommunications
+Security	NTS-22 NTS-23	NTS-9 NTS-44		NTS-9 NTS-34
+NTS-44	
+Emerging Technology	ET-1 ET-11	ET: 3 - 4 ET-6
+ET-8 ET-10	ET-3  ET-5
+ET: 3 - 5	
+Data Security		DS-2 DS-4 DS-18	DS-2	DS-5 DS: 7 - 8
+DS-10 DS-13
+DS-15	DS-2 DS: 4 - 5
+DS: 7 - 10  DS-18	
+IT Systems and Operations		ITOS-15 ITOS: 21 - 23	ITOS-4	ITOS-6 ITOS-8 ITOS-20
+ITOS: 22 - 24 ITOS-27	ITOS-8
+Incident Management	IR-20	IR: 1 - 2
+IR-16			
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Operate and Maintain
+
+Role Area: Customer Service and Technical Support
+
+Roles:
+•	Service Desk Representative
+•	Service Desk Operator
+•	Technical Support Personnel
+•	System Administrator
+•	Helpdesk Representative
+•	Customer Support Specialist
+•	Customer Support
+•	System Evaluator
+
+Responsibility — Addresses problems, installs, configures, troubleshoots, and provides maintenance and training in response to customer requirements or inquiries (e.g., tiered-level customer support).
+
+Knowledge Unit:
+•	Information Systems
+•	Incident Management
+•	Security Risk Management
+•	Systems and Applications Security
+•	Network and Telecommunications Security
+•	IT Systems and Operations
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Information Systems	SI: 1 - 3	SI-11		SI: 8 - 16	SI:	SI: 8 – 17
+	SI: 5– 7	SI-18		18 - 19	SI-25	SI-19
+				SI: 28 - 30	SI-23
+					SI: 28 - 29
+Incident Management	IR-1				
+	IR-6				
+	IR-16				
+	IR-18				
+	IR-20				
+Security Risk	RM-3	RM: 25 - 26
+	RM: 20 - 23	
+Management	RM: 5 - 6	RM-28			
+	RM-19				
+Systems and Applications		SAS-8		SAS: 1 - 2	SAS-3
+Security		SAS-20		SAS: 5 - 7	SAS-6
+		SAS-22		SAS: 29 - 30	SAS: 9 - 10
+		SAS-25		SAS: 32 - 33	
+		SAS: 27 - 29			
+Network and		NTS-9		NTS: 1 - 6	NTS: 3 - 4
+Telecommunications		NTS: 22 - 23		NTS: 8 - 14	NTS-6
+Security		NTS: 27 - 28		NTS: 16 - 21	NTS-17
+		NTS-35		NTS-25	NTS-51
+		NTS: 41 - 42		NTS-35	
+				NTS: 41 - 43	
+				NTS-45	
+				NTS-47	
+				NTS-50	
+IT Systems and		ITOS: 3 - 4 ITOS-7		ITOS: 2 - 5	
+Operations				ITOS-7	
+				ITOS: 10 - 11	
+				ITOS-13 ITOS-20	
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Operate and Maintain
+
+Role Area: Network Services
+
+Roles:
+•	Network Administrator
+•	Telecommunication Personnel
+•	Network Security Specialist
+•	Telecommunication Engineer
+•	Continuous Monitoring Executer
+•	Cabling Technician
+•	Converged Network Engineer
+•	Network Analyst
+•	Network Designer
+•	Network Engineer
+•	Network Systems and Data Communications Analyst
+•	Enterprise Architect
+•	Information Security Architect
+•	Information System/Security Engineer
+•	Information System Integrator
+•	System Evaluator
+
+Responsibility — Installs, configures, tests, operates, maintains, and manages networks and their firewalls, including hardware (hubs, bridges, switches, multiplexers, routers, cables, proxy servers, and protective distributor systems) and software that permit the sharing and transmission of all spectrum transmissions of information to support the security of information and information systems.
+
+Knowledge Unit:
+•	Architecture
+•	IT Systems and Operations
+•	Information Assurance
+•	Information Systems
+•	Network and Telecommunications Security
+•	Security Risk Management
+•	Systems and Applications Security
+•	Cryptography and Encryption
+•	Data Security
+•	Configuration Management
+•	Computer Network Defense
+ 
+•	Web Technology
+•	Identity Management/Privacy
+•	Incident Management
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Architecture	ARCH: 10 - 12	ARCH-5 ARCH-8	ARCH: 1 - 3	ARCH: 1 - 9	ARCH: 1 - 3
+	ARCH-15		ARCH: 5 - 9 ARCH:	ARCH: 13- 14 ARCH:	ARCH: 8 - 9
+	ARCH: 18 - 19
+	13 -14	16 - 17 ARCH-20	ARCH-14 ARCH-17
+			ARCH-21		ARCH: 20 - 21
+IT Systems and Operations	ITOS-4	ITOS: 15 - 16	ITOS: 1 - 2	ITOS: 1 - 3	ITOS-3
+	ITOS-7	ITOS-27	ITOS-10	ITOS: 5 - 6	ITOS-6
+	ITOS-11		ITOS: 13 - 14 ITOS-	ITOS: 8 - 10	ITOS-8
+	ITOS-18		16	ITOS: 12 - 17	ITOS-10
+	ITOS-23		ITOS-22	ITOS: 19 - 22	ITOS: 14 - 15
+	ITOS-25			ITOS-24	ITOS-17
+				ITOS: 26 - 27	ITOS: 20 - 21
+					ITOS: 26 - 27
+Information Assurance	IA-9	IA: 1 - 5	IA-3	IA: 6 - 8	IA: 1 - 2
+			IA: 6 - 7		IA-4
+					IA: 7 - 8
+Information Systems	SI: 2 - 3	SI-7	SI-1	SI-1	SI-11
+	SI: 5 - 6	SI-21	SI-4	SI: 7 - 15	SI-13
+	SI-16	SI: 26 - 27 SI-30	SI: 9 – 12	SI: 18 - 20	SI-15
+	SI-28		SI-18	SI: 22 - 25	SI: 17 - 18
+			SI: 20 - 22	SI-27	SI-23
+			SI-25	SI-29	SI: 26 - 27
+			SI-27	SI: 30-31	SI: 29 - 31
+			SI-29		
+			SI-31		
+Network and	NTS: 7 - 9	NTS-24	NTS-1	NTS: 1 - 6	NTS: 3 - 6
+Telecommunications	NTS: 11 - 16	NTS: 27 - 28	NTS-26	NTS-10	NTS-10
+	NTS: 20 - 23	NTS-30	NTS-46	NTS: 17 – 19	NTS-17
+	NTS-25	NTS-33	NTS-48	NTS: 27 - 33	NTS-24
+	NTS: 34 - 36	NTS: 38 - 39 NTS-	NTS-52	NTS-38	NTS: 27 - 28
+	NTS: 41 - 45	52		NTS-40	NTS: 30- 33
+	NTS-47			NTS: 48 - 49	NTS-37
+	NTS-50				NTS: 39-40
+					NTS-51
+Security Risk Management	RM-6	RM: 25 - 26	RM: 7 - 8	RM: 1 - 2	RM: 1 - 2
+		RM-28	RM-18	RM-10	RM-4
+		RM: 30-31		RM-12	RM-7
+				RM-14	RM: 9 - 10
+				RM-16	RM: 12 - 14
+				RM-18	RM-16
+				RM-20	RM-18
+				RM-22	RM-25
+				RM: 33 - 34	RM: 32 - 33
+Cryptography and	CR-1	CR-3 CR-10	CR-10	CR-2	CR: 4 - 5	N/A
+Encryption		CR-12	CR: 4 - 5	CR: 11 - 12	
+		CR-14	CR-12	CR-15	
+Data Security	N/A	DS-4	DS-2	DS: 1 - 2	N/A
+		DS-18		DS-4	
+				DS-15	
+				DS-18	
+Configuration Management	CM-1	CM-7	CM-13	CM: 2 - 3	CM-4
+	CM: 5 - 6	CM-12		CM-8	
+	CM-9	CM-15		CM-10	
+	CM-11			CM-12	
+				CM-14	
+Computer Network Defense	CND: 1 - 2 CND-11	CND-4	CND-12	CND: 4 - 5	CND: 5 - 6
+	CND: 17 - 20  CND-	CND: 9 -10 CND-		CND-8	CND-10
+	22	12		CND: 14 - 16	CND-13
+		CND: 14 - 16		CND-28	CND-21
+		CND: 29 - 30			CND: 24 - 29
+Web Technology	WT-1	N/A	N/A	WT-9	N/A
+Identify Management/	IM: 1 – 3	N/A	N/A	IM: 4 - 6	N/A
+Privacy	IM-7				
+ 
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+Incident Management	IR: 1 - 3			IR: 9- 10	IR: 12 - 15
+	IR-6			IR-12	
+	IR-16			IR-17	
+	IR-18				
+	IR-20				
+
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+Function Area: Operate and Maintain Role Area: System Administration Role:
+•	Directory Services Administrator
+•	System Administrator
+•	Operations Personnel/Management
+•	LAN administrator
+•	Platform Specialist
+•	Security Administrator
+•	Systems Operations Personnel
+•	Server Administrator
+•	Website Administrator
+•	Information Security Architect
+•	Information Security Integrator
+
+Responsibility — Installs, configures, troubleshoots and maintains server configurations (hardware and software) to ensure their confidentiality, integrity, and availability. Also manages accounts, firewalls, and patches. Responsible for access control/passwords/account creation and administration.
+
+Knowledge Unit:
+•	Information Systems
+•	Network and Telecommunications Security
+•	Architecture
+•	Security Risk Management
+•	Emerging Technologies
+•	Systems and Applications Security
+•	Digital Forensics
+•	Cryptography and Encryption
+•	Software
+•	Identity Management/Privacy
+•	Incident Management
+•	Configuration Management
+ 
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Information Systems	SI-3 SI-5
+SI: 6 - 8 SI-10 SI-26 SI-28
+SI-30	SI-10 SI-20 SI-25	SI: 1 - 2 SI-4
+SI: 9 - 10 SI-16
+SI-18
+SI: 20 - 21	SI: 1 – 2
+SI: 9 - 16
+SI: 18 - 19 SI-23
+SI-27 SI-29 SI-31	SI-1
+SI: 11 – 13
+SI: 15 - 17 SI-21
+SI-23 SI-31
+Network and Telecommunication s Security	NTS-1 NTS-7 NTS-22 NTS-24 NTS-35
+NTS-52	NTS-23 NTS-39	N/A	NTS-2 NTS: 4 - 5 NTS-23
+NTS: 38 - 39	NTS: 2 - 6 NTS-23
+Architecture	ARCH - 3 ARCH-14 ARCH-18	ARCH-2 ARCH-8 ARCH-13
+ARCH-15	ARCH-1 ARCH: 4 - 6 ARCH-21	ARCH: 1 - 2 ARCH-4 ARCH-6	ARCH-21
+Security Risk Management	RM-3 RM-5 RM-19 RM-21 RM-30	RM-2
+RM: 25 - 28 RM-31	RM-8 RM-18	RM-1 RM-8 RM-18 RM-20
+RM: 23 - 24 RM-34	RM-1 RM-7
+RM: 22 - 23 RM-34
+Emerging Technologies	ET: 1 – 2
+ET: 8 - 11	ET-7	N/A	ET-4	N/A
+Systems and Applications Security	SAS: 1 – 3 SAS-8 SAS-11 SAS-20
+SAS: 22 - 23
+SAS: 29 - 30	SAS-25 SAS-27	SAS-4 SAS-24 SAS-26	SAS: 5 - 7 SAS-16 SAS: 25 - 26
+SAS: 30 - 31	SAS-6 SAS: 9 - 10 SAS-16
+SAS: 25 - 27
+SAS: 30 - 31
+Digital Forensics	DF-1	DF-6	N/A	DF: 6 – 7
+DF-11	DF-7
+DF-11
+Cryptography and Encryption	CR-1 CR-5 CR-10
+CR-12	N/A	CR-2	CR-11 CR-13	N/A
+Software	SW-9 SW-19 SW-21 SW-28
+SW-30	SW-15	SW-7 SW-17
+SW: 21 - 23 SW-29
+SW-32	SW: 7 – 8
+SW: 15 - 16 SW-18
+SW: 22 - 23 SW-29	SW-8 SW-15 SW-22 SW-29
+Identity
+Management/Priva cy	IM-1	IM-3
+IM-7	IM-9	N/A	IM-5	IM: 4 - 6 IM-8	IM-8 IM-11
+Incident Management	IR: 1- 3 IR-6
+IR-11 IR-20	N/A	N/A	IR: 4 - 5 IR-9
+IR-12	IR: 7 - 9
+Configuration Management	CM: 1 – 2
+CM: 5 – 6 CM-11	CM-7 CM: 9 - 10 CM-12
+CM: 14 - 15	N/A	CM-3 CM: 8 - 10
+CM: 14 - 15	CM-9
+ 
+
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+Function Area: Operate and Maintain Role Area: Systems Security Analysis Roles:
+•	IT/cybersecurity Officer
+•	Information Systems Security Officer
+•	Security Control Assessor
+•	Blue/Red Teams
+•	Penetration Tester
+•	Platform Specialist
+•	Security Administrator
+•	IA Operational Engineer
+•	IT/cybersecurity Analyst/Administrator/Manager
+•	Common Control Provider
+•	Information System Security Engineer
+•	Penetration Tester
+•	Independent Verifiers/Validators
+
+Responsibility — Conducts the integrations/testing, operations, and maintenance of systems security.
+
+Knowledge Unit:
+•	Security Risk Management
+•	IT Security Awareness and Training
+•	Cryptography and Encryption
+•	Database
+•	IT Systems and Operations
+•	Architecture
+•	Information Assurance
+•	Information Systems
+•	Personnel Security
+•	Network and Telecommunication Security
+•	Identity Management/Privacy
+•	Configuration Management
+•	Software
+•	Systems and Applications Security
+•	Incident Management
+•	Procurement
+ 
+•	Compliance
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Security Risk Management	RM-3
+RM: 5 - 6 RM-18 RM-33	RM: 25 - 31	RM-9 RM-17	RM: 1 - 2 RM-8
+RM: 19 - 24 RM-29	RM: 1 – 2 RM-4 RM-7
+RM: 9 – 16
+RM: 21 - 22
+RM: 32 RM-34
+IT Security Awareness and Training	N/A	SAT-3
+SAT: 5 - 6 SAT-8	N/A	N/A	SAT: 9 - 10
+Cryptography and Encryption	N/A	N/A	N/A	N/A	CR: 1 - 5 CR-8 CR-10
+CR-12
+Database	N/A	N/A	DB-2	DB: 10 - 11	DB: 4 - 7
+IT Systems and Operations	ITOS-7 ITOS: 10 -11	ITOS-16 ITOS-21 ITOS-23 ITOS-25
+ITOS-27		ITOS: 12 - 13 ITOS-15 ITOS: 18 - 21 ITOS-24
+ITOS-26	ITOS: 1 - 2
+ITOS: 4 – 6 ITOS-8 ITOS: 17 - 19
+Architecture	ARCH: 18 - 20	ARCH-2 ARCH-15	N/A	N/A	ARCH: 2 - 4 ARCH-17
+ARCH-21
+Information Systems	N/A	SI-26	SI-26	SI-27	SI: 17 - 18
+SI- 22
+SI: 27 - 28
+SI: 30 - 31
+Personnel Security	N/A	PS: 1 - 4 PS-8
+PS: 10 - 12	N/A	PS-4 PS-11	PS: 8 - 9
+Network and Telecommunication Security	N/A	NTS: 22 - 24
+NTS: 27 - 28 NTS-31 NTS: 33 - 34 NTS-52	N/A	NTS-31 NTS-35 NTS-39 NTS-52	NTS-6 NTS: 8 - 9
+NTS: 16 - 17
+NTS: 20 - 26
+NTS: 28 - 30
+NTS: 33 - 34
+NTS: 36 - 38
+NTS: 40 - 47
+NTS: 51 - 52
+Identity Management/Privacy	IM: 7 - 8	IM-3
+IM: 9 – 10	N/A	IM-5
+IM-11	IM: 1 - 3
+IM: 10 - 11
+Information Assurance	IA: 1 – 2
+IA-4	IA-5	IA-3
+IA-6	IA-8	IA-7
+IA-9
+Configuration Management	N/A	CM-1 CM-7 CM-9
+CM: 11 - 12	N/A	CM-2 CM-8 CM-10	CM-4
+Software	N/A	SW: 28 - 29 SW-32	N/A	SW-29	SW: 24 - 28
+SW: 30 – 32
+Systems and Applications Security	SAS-4	SAS-20 SAS-25 SAS-34	N/A	SAS-30 SAS-33	SAS-2 SAS-10
+SAS-12 SAS-14 SAS: 15 - 24
+SAS: 26 - 29 SAS-32
+SAS-34
+ 
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+Incident Management	IR-18	IR: 1 - 3 IR-6
+IR-13 IR-16 IR-20	N/A	IR: 2 - 3
+IR: 11-12 IR-19	IR-1 IR-3 IR-5
+IR: 7 - 10
+IR: 13 - 17
+IR: 19 - 20
+Procurement	N/A	PROC: 5 - 8	N/A	N/A	N/A
+Compliance	N/A	COMP: 1 - 10	N/A	N/A	COMP-8
+
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Securely Provision/Development
+
+Role Area: Information Assurance Compliance
+
+Roles:
+•	Accreditor
+•	Auditor
+•	Authorizing Official Designated Representative
+•	Certification Agent
+•	Certifying Official
+•	Designated Accrediting Authority
+•	Compliance Officer/Manager
+•	Compliance Analyst/Manager
+•	IA Manager
+•	IA Officer
+•	Mission/Business Owner
+•	Portfolio Manger
+•	Risk/Vulnerability Manager
+•	Security Control Assessor
+•	Independent Verifier/Validator
+•	Inspector General
+•	Inspector/Investigator
+•	Regulatory Affairs Analyst
+•	IT Security Program Manager
+•	Governance Manager
+
+Responsibility — Oversees, evaluates, and supports the documentation, validation, and accreditation processes necessary to assure that new IT systems meet the organization’s IA requirements. Ensures compliance from internal and external perspectives.
+
+Knowledge Unit:
+•	Computer Network Defense
+•	Information Systems
+•	Network and Telecommunications Security
+•	Information Assurance
+•	Systems and Applications Security
+•	Emerging Technology
+•	Architecture
+ 
+•	Security Risk Management
+•	Incident Management
+•	Identity Management/Privacy
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+CND	CND-1 CND-4 CND-11 CND-15 CND-20 CND-22	CND-9 CND: 17 - 18 CND-29 CND-30	CND-3 CND-12 CND-14 CND-16	CND-2 CND-5 CND-8
+CND: 13 - 14 CND-16 CND-19 CND-23 CND-29	CND-2 CND: 5 - 7 CND-10 CND-13 CND-15 CND-17 CND-19 CND-21
+CND: 24 – 29
+Information Systems	SI-3
+SI: 5 - 8 SI-10 SI-26 SI-28 SI-30	SI-10 SI-20 SI-25	SI: 1 - 2 SI-4
+SI: 9 - 10 SI-16
+SI-18
+SI: 20 - 21	SI : 1 - 2
+SI: 9 - 16
+SI: 18 - 19 SI-23
+SI-27 SI-29 SI-31	SI-1 SI:11 - 13
+SI: 15 - 17 SI-21
+SI-23 SI-31
+Network and Telecomm Security	NTS-7 NTS-11 NTS: 14-15 NTS:21-22 NTS-24 NTS-31	NTS-9 NTS-16 NTS-23 NTS-28 NTS-35 NTS:38-39 NTS-52	N/A	NTS-26 NTS-29 NTS-32 NTS-52	NTS-8
+NTS: 11 - 12
+NTS: 16 - 17 NTS-19 NTS-23 NTS: 27 - 29 NTS-32 NTS: 37 - 40
+NTS: 51 - 52
+Information
+Assurance	IA-1	IA: 2 - 5
+IA-9	IA-3	IA-6	IA: 7 - 8	IA-2
+IA: 7 - 9
+Sys and App Security		SAS-10 SAS-12 SAS: 17 - 18 SAS-20 SAS: 25 - 27		SAS: 14 - 16	SAS-6 SAS: 9 - 10 SAS-12
+SAS: 14 - 19 SAS-23 SAS: 26 - 27
+Emerging Technology	ET-1	ET: 7 - 10	ET-9	ET-11	ET-6
+ET: 8 - 10
+Architecture	ARCH-15
+ARCH-18	N/A	N/A	ARCH-3	ARCH-17
+ARCH-21
+Security Risk Management	RM: 5 - 6 RM-25 RM-30	RM: 26 - 28 RM-31	RM-8 RM-9	RM-4 RM-12 RM-14 RM-19	RM: 1 - 2 RM-7
+RM: 10 - 11 RM-13 RM: 15 - 16 RM-18
+RM-24 RM: 32 - 34
+Identity Management/
+Privacy	IM: 1 - 2 IM-7	IM-3
+IM: 8 – 10	N/A	IM-5	IM-11
+ 
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+Incident Management	IR: 2 - 3 IR-20	IR: 6 - 7 IR-11
+IR: 14 - 16 IR-18	N/A	IR-9 IR-10 IR-12 IR-14
+IR-19	IR-5 IR-8 IR-11
+IR: 13 - 17
+
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Securely Provision /Development
+
+Role Area: Software Assurance and Software Engineering
+
+Roles:
+•	Requirements Analyst
+•	Information Security Analyst
+•	Information Security Architect
+•	IA/Security Engineer
+•	Software Architect
+•	System Engineer
+•	Analyst Programmer
+•	Computer Programmer
+•	R&D Engineer
+•	Secure Software Engineer
+•	Reverse Engineer
+•	Information Owner/Steward
+
+Responsibility — Develops, creates, and writes/codes new (or modifies existing) computer applications, software, or specialized utility programs.
+
+Knowledge Unit:
+•	Security Risk Management
+•	Data Security
+•	Systems and Applications Security
+•	Architecture
+•	Software
+•	Personnel Security
+•	Configuration Management
+•	Web Security
+•	Modeling and Simulation
+•	Identity Management/Privacy
+•	Information Systems
+•	Network and Telecommunications Security
+ 
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Security Risk Management	N/A
+N/A	RM-3 RM: 7 - 8 RM-19
+RM-21	RM-22	N/A
+Data Security	N/A	N/A	DS: 3 - 10
+DS: 12 - 14 DS-16
+DS-18	N/A	N/A
+Systems and Applications Security	N/A	SAS-1 SAS-4 SAS-26	SAS-1 SAS-4
+SAS-6	SAS-13
+SAS-21	SAS-23
+SAS-26	SAS-29
+SAS-31	SAS-33	N/A	N/A
+Architecture	N/A	N/A	ARCH: 1 - 2
+ARCH: 5 - 17
+ARCH: 19 - 21	ARCH-1	N/A
+Software	N/A	N/A	SW: 1 - 32	N/A	N/A
+Personnel Security	N/A	N/A	PS-4
+PS-11	N/A	N/A
+Configuration Management	N/A	N/A	CM: 2 - 6 CM-8 CM-11
+CM: 13 - 14	N/A	N/A
+Web Security	N/A	N/A	WT-1 – 6	N/A	N/A
+Modeling and Simulation	N/A	N/A	MS: 2 - 3	N/A	N/A
+Identity Management/ Privacy	N/A	N/A	IM: 1 – 6	N/A	N/A
+Information Systems	N/A	N/A	SI: 3 - 6
+SI: 9 - 11 SI-13
+SI-18
+SI: 20 - 22	N/A	N/A
+Network and Telecommunications Security	N/A	N/A	NTS-2 NTS-7 NTS: 9: -10
+NTS: 12 - 16	N/A	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Securely Provision/Development
+
+Role Area: Systems Security and Enterprise Architecture
+
+Roles:
+•	Enterprise Security Architect
+•	IA/Information Security Architect
+•	Principal Security Architect
+•	Information System Security Engineer
+•	Network Security Analyst
+•	Security Solutions Architect
+•	Systems Security Analyst
+•	Ethical Hacker
+
+
+Responsibility — Develops system concepts and works on the capabilities phases of the systems development lifecycle translates technology and environmental conditions (e.g., law and regulation) into system and security designs and processes.
+
+Knowledge Unit:
+•	Identity Management/Privacy
+•	Architecture
+•	Cryptography and Encryption
+•	Database
+•	Information Assurance
+•	Information Systems
+•	Personnel Security
+•	Network and Telecommunications Security
+•	IT Systems and Operations
+•	Security Risk Management
+•	Configuration Management
+•	Software
+•	Systems and Applications Security
+•	Emerging Technologies
+•	Modeling and Simulation
+ 
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Identity Management/ Privacy	N/A	IM-7	N/A	IM-1 – 5
+IM: 8 – 9	N/A
+Architecture	N/A
+ARCH-15	ARCH-5	ARCH: 5 - 6 ARCH-
+9
+ARCH: 11 - 12
+ARCH: 14 - 17	N/A
+Cryptography and Encryption	N/A	N/A	N/A	CR-1 CR: 3 - 5
+CR: 9 – 12	N/A
+Database	N/A	N/A	N/A	DB-4
+DB-7	N/A
+Information Assurance	N/A	IA-2 IA-4
+IA-7	IA-8	IA-4
+IA: 6 – 7	N/A
+Information Systems	N/A	N/A	SI: 3 - 7 SI-10 SI-12 SI-16 SI-18
+SI: 20 - 21
+SI: 26 – 28	SI: 1 - 3	N/A
+Personnel Security	N/A	N/A	PS-1 PS-4	PS-11	N/A
+Network and Telecommunications Security	N/A	N/A	NTS: 7 - 9
+NTS: 11 - 12
+NTS: 14 – 16
+NTS: 23 - 24
+NTS: 30 - 31
+NTS: 35 - 36 NTS-42	NTS-16 NTS-23	N/A
+IT Systems and Operations	N/A	N/A	ITOS-4
+ITOS-14 ITOS-23	N/A	N/A
+Security Risk Management	N/A	N/A	RM-4 RM: 6 - 7 RM-9
+RM-26	RM-7 RM-26	N/A
+Configuration Management	N/A	N/A	CM-5 CM-9 CM-11
+CM-13	CM-2 CM-5 CM-9
+CM-11	N/A
+Software	N/A	N/A	SW: 11 - 12	N/A	N/A
+Systems and Applications Security	N/A	N/A	SAS: 1 - 2
+SAS-4 SAS-6 SAS-8 SAS-11 SAS-16 SAS-
+21 SAS: 22 - 23	N/A	N/A
+Emerging Technologies	N/A	N/A	ET-1 ET: 5 - 6 ET-8
+ET: 10 – 11	ET-7
+ET: 9 – 10	N/A
+Modeling and Simulation	N/A	N/A	MS: 1 – 3	N/A	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+Function Area: Securely Provision /Development Role Area: Technology Research and Development Roles:
+•	R&D Engineer
+•	Capabilities and Development Specialist
+•	Applications Security Officer
+•	Cloud Provider
+•	System Evaluator
+
+Responsibility — Conducts technology assessment and integration processes provides and supports a prototype capability and evaluates its utility.
+
+Knowledge Units:
+•	Digital Forensics
+•	Software
+•	Compliance
+•	Cryptography and Encryption
+•	IT Systems and Operations
+•	Information Systems
+•	Network and Telecommunications Security
+•	Architecture
+•	Modeling and Simulation
+•	Information Systems
+•	Physical and Environmental Security
+•	Procurement
+•	Security Risk Management
+•	Systems and Applications Security
+•	Emerging Technologies
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Digital Forensics	N/A	N/A	N/A	DF: 3 - 4 DF-6
+DF: 10 - 11
+DF: 14 - 15
+DF: 19 - 21
+DF: 24 -25
+DF: 27 - 29	N/A
+Software	N/A
+N/A	SW: 2 - 3
+SW: 5 - 7
+SW: 11 - 12
+SW: 14 - 24
+SW- 30 – 32	N/A	N/A
+Compliance	N/A	N/A	N/A	COMP: 1 - 7
+COMP-10	N/A
+Cryptography and Encryption	N/A	N/A	N/A	CR: 1 – 11
+CR: 13 - 15	N/A
+IT Systems and Operations	N/A	N/A	N/A	ITOS: 1 – 2 ITOS-4 ITOS-7 ITOS: 9 – 11
+ITOS: 13 - 15 ITOS-19
+ITOS: 22 - 23	N/A
+Information Systems	N/A	N/A	N/A	SI:1 – 3
+SI-5-7 SI-9-12 SI-16 SI-21 SI-26
+SI-28	N/A
+Network and Telecommunications Security	N/A	N/A	N/A	NTS-7 NTS: 9 - 10 NTS-12 NTS-15 NTS-21
+NTS: 23 – 24 NTS-26
+NTS-30 NTS-34 NTS-36
+NTS: 45 – 46 NTS-52	N/A
+Architecture	N/A	N/A	N/A	ARCH: 1 - 3
+ARCH: 5 – 15	N/A
+Modeling and
+Simulation	N/A	N/A	N/A	MS-1-3	N/A
+Information Systems	N/A	N/A	N/A	SI-5-7 SI-10
+SI-21	N/A
+Physical and Environmental Security	N/A	N/A	N/A	PES-1 PES-6
+PES-8	N/A
+Procurement	N/A	PROC-6
+PROC: 8 - 9	N/A	PROC: 1 - 3	N/A
+Security Risk Management	N/A	N/A	N/A	RM-3 RM: 5 - 6
+RM-8	N/A
+ 
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+Systems and Applications Security	N/A	N/A	N/A	SAS: 1 – 3
+SAS: 10 - 11 SAS-24 SAS-26
+SAS-30 SAS-34	N/A
+N/A	ET: 1 - 11	N/A			
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Securely Provision /Development
+
+Role Area: Systems Requirements Planning
+
+Roles:
+•	Business Analyst
+•	Business Process Analyst
+•	Computer Systems Analyst
+•	Contracting Officer
+•	Contracting Officer Technical Representative (COTR)
+•	Human Factors Engineer
+•	Requirements Analyst
+•	Enterprise Architect
+•	Solutions Architect
+•	System Consultant
+•	Systems Engineer
+
+Responsibility — Consults with customers to gather and evaluate functional requirements and translates these requirements into technical solutions. Provides guidance to customers about applicability of information systems to meet business needs.
+
+Knowledge Units:
+•	IT Systems and Operations
+•	Procurement
+•	Compliance
+•	Cryptography and Encryption
+•	Architecture
+•	Identity Management/Privacy
+•	Incident Management
+•	Information Assurance
+•	Information Systems
+•	Network and Telecommunications Security
+ 
+•	Security Risk Management
+•	Modeling and Simulation
+•	Information Systems
+•	Personnel Security
+•	Procurement
+•	Software
+•	Systems and Applications Security
+•	Emerging Technology
+
+
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+IT Systems and
+Operations	N/A	ITOS-16	N/A	ITOS: 8 - 10 ITOS:
+15 - 16	N/A
+Procurement	N/A	PROC: 1 - 12	N/A	PROC: 1 – 5	N/A
+Compliance	N/A	COMP: 1 – 7 COMP:
+9 - 10	N/A	N/A	N/A
+Cryptography and Encryption	N/A	N/A	N/A	CR: 1 – 5
+CR: 14 - 15	N/A
+Architecture	N/A	ARCH 15 ARCH-18	ARCH 1 – 21	N/A	N/A
+Identify Management/
+Privacy	N/A	IM 1 – 3 IM-7
+IM-9	IM 1 – 3
+IM -7 IM-9	N/A	N/A
+Incident Management	N/A	IR-6	N/A	IR-10	N/A
+Information
+Assurance	N/A	IA: 1 – 5	N/A	IA: 6 – 8	N/A
+Information Systems	N/A	SI: 1 – 3	SI: 1 – 7
+S:I 9 – 10 SI-16
+SI-18
+SI: 20 – 22
+SI: 24 – 26	N/A	N/A
+Network and Telecommunication Security	N/A	N/A	NTS-1 NTS-7 NTS-13 NTS-15 NTS-23
+NTS-25	N/A	N/A
+Architecture	N/A	ARCH- 15 ARCH-18
+ARCH-21	ARCH 1 – 21	ARCH 1 - 21	N/A
+Security Risk Management	N/A	RM-3
+RM-6 RM-30	RM-7 RM: 8 - 9	RM: 2 - 3 RM-8	N/A
+Modeling and Simulation	N/A	N/A	MS 1 – 3	N/A	N/A
+Information Systems	N/A	N/A	SI: 2 - 3
+SI: 12 - 13
+SI: 20 - 22	N/A	N/A
+Personnel Security	N/A	N/A	PS-1
+PS-4	N/A	N/A
+Procurement	N/A	PROC 1 – 12	N/A	N/A	N/A
+Software	N/A	SW-14	SW-5	N/A	N/A
+ 
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+Systems and Applications Security	N/A	SAS-22 SAS-26 SAS-34
+SAS-28	SAS: 1 -3 SAS-26	SAS-6 SAS-23 SAS-26	N/A
+Emerging Technology	N/A	ET: 1 – 4
+ET: 8 – 11	ET: 1- 5	ET: 5 – 7	N/A
+
+ 
+INFORMATION TECHNOLOGY/CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Securely Provision/Development
+
+Role Area: Test and Evaluation
+
+Roles:
+•	Application Security Tester
+•	Quality Assurance Tester
+•	Testing and Evaluation Specialist
+•	Systems Engineer
+•	R&D Engineer
+•	Information Systems Security Engineer
+•	Information Security Architect
+•	Ethical Hacker
+•	Penetration Tester
+•	Independent Verifiers/Validator
+
+
+Responsibility — Develops and conducts tests of systems to evaluate compliance with specifications and requirements by applying principles and methods for cost-effective planning, evaluating, verifying and validating of technical, functional and performance characteristics (including interoperability) of systems or elements of systems incorporating IT.
+
+Knowledge Units:
+•	Software
+•	IT Systems and Operations
+•	Information Assurance
+•	Information Systems
+•	Network and Telecommunications Security
+•	Architecture
+•	Information Systems
+•	Security Risk Management
+•	Identity Management/Privacy
+•	Systems and Applications Security
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Software	N/A	SW-14
+SW: 28 - 29 SW-32	N/A	SW-3	SW-5	SW-1 SW-14
+SW: 22 - 23
+SW: 24 - 26
+SW-28 - 32
+IT Systems and Operations	N/A	ITOS- 23 ITOS-25 ITOS-27	N/A	N/A	ITOS: 4 - 5
+ITOS: 7 - 8
+ITOS-10 – 15 ITOS-18
+Information Assurance	N/A	IA: 1 – 5	N/A	N/A	IA: 1 – 9
+Information Systems	N/A	SI: 26 -28	N/A	N/A	SI: 5 – 7
+SI: 16 – 18
+SI: 26 - 31
+Network and Telecommunications Security	N/A	N/A	N/A	N/A	NTS: 5 - 6
+NTS: 8 - 16
+NTS: 18– 40 NTS-52
+Architecture	N/A	ARCH-15 ARCH-18	N/A	ARCH-17	ARCH-3-5 ARCH-10 – 12
+ARCH: 17 - 18
+Information Systems	N/A	N/A	N/A	N/A	SI-17
+SI: 26 – 31
+Security Risk
+Management	N/A	RM 26 – 32	N/A	N/A	RM: 1 - 34
+Identity Management/ Privacy	N/A	IR-6	N/A	N/A	IM-1 – 3 IR-5
+IR-7 IR-10
+Systems and Applications Security	N/A	N/A	N/A	N/A	SAS 1 – 2
+SAS: 9-10 SAS-12 SAS: 14 - 26 SAS-29
+SAS-30 SAS-32
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Securely Provision/Development
+
+Role Area: Systems Development
+
+Roles:
+•	IA Developer
+•	Program Developer
+•	Systems Engineer
+•	Information Systems Security Developer
+•	Information Systems Integrator
+•	Information Security Engineer
+•	IA Engineer
+•	Configuration Manager
+
+Responsibility — Works on the development phases of the systems development lifecycle.
+
+Knowledge Units:
+•	Software
+•	IT Systems and Operation
+•	Configuration Management
+•	Cryptography and Encryption
+•	Database
+•	Architecture
+•	Personnel Security
+•	Identity Management/Privacy
+•	Information Assurance
+•	Information Systems
+•	Network and Telecommunications Security
+•	Systems and Applications Security
+•	Security Risk Management
+•	Modeling and Simulation
+•	Procurement
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Software	N/A	SW-14 SW-32	SW 1 – 3
+SW-5 – 11 SW-14
+SW-18 – 24 SW-32	N/A	N/A
+IT Systems and
+Operations	N/A	N/A	ITOS-4	N/A	N/A
+Configuration Management	N/A	CM-7
+CM: 12 - 13	CM: 3 - 6
+CM-13	N/A	N/A
+Cryptography and
+Encryption	N/A		CR-1 – 5
+CR:14 - 15	N/A	N/A
+Database	N/A	DB-5	DB-2 DB-4
+DB-6	N/A	N/A
+Architecture	N/A	ARCH-15	ARCH 9 – 14
+ARCH-18 ARCH-20	N/A	N/A
+Personnel Security	N/A	PS-1
+PS: 3 - 4	PS-1
+PS: 3 - 4	N/A	N/A
+Identity Management/ Privacy	N/A	IM-7 IM-9	IM 1 – 3 IM-7	N/A	N/A
+Information Assurance	N/A	IA-1	IA: 2 - 4
+IA: 6 - 7	N/A	N/A
+Information Systems	N/A	N/A	SI: 4 – 7 SI-13
+SI-16	N/A	N/A
+Network and Telecommunications Security	N/A	NTS-34	NTS 23 – 24 NTS-26 NTS: 34 -35
+NTS: 40 – 47	N/A	N/A
+Systems and Applications Security	N/A	N/A	SAS-2 SAS-20 SAS-24 SAS-26
+SAS-30	N/A	N/A
+Security Risk Management	N/A	RM-26 RM-28
+RM: 30 - 31	RM-3 RM: 5 – 8	N/A	N/A
+Modeling and Simulation	N/A	N/A	MS-3	N/A	N/A
+Procurement	N/A	PROC-1 – 5	N/A	N/A	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+Function Area: Securely Provision/(Assess/Evaluate) Role Area: Computer Network Defense Analysis Roles:
+•	CND Security Personnel
+•	System Administrator
+•	Network Security Administrator
+•	Network Security Specialist
+•	CND Analyst
+•	Cryptographer
+•	CND Auditor
+•	Security Analyst
+•	Cybersecurity Intelligence Analyst
+•	Focused Operations Analyst
+•	Incident Analyst
+•	Network Defense Technician
+•	Security Operator
+•	Sensor Analyst
+•	Information Security Architect
+•	Penetration Tester
+•	Independent Verifier/Validator
+
+Responsibility — Uses defensive measures and information collected from a variety of sources to identify, analyze, and report events that occur or might occur within the network in order to protect information, information systems, and networks from threats.
+
+Knowledge Units:
+•	Digital Forensics
+•	Software
+•	Computer Network Defense
+•	Configuration Management
+•	Compliance
+•	Cryptography and Encryption
+•	Data Security
+•	Incident Management/Privacy
+•	Information Systems
+•	Network and Telecommunications Security
+ 
+•	Architecture
+•	Emerging Technology
+•	Security Risk Management
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Digital Forensics	N/A	N/A	N/A	DF 7
+DF 10
+DF 22 – 26	N/A
+Software	N/A
+N/A	N/A	SW 4
+SW 16 – 17
+SW 30 – 32	N/A
+Computer Network Defense	N/A	CND 9 – 12
+CND 15 – 20
+CND 22 – 24 CND-29	N/A	CND 1 - 30	N/A
+Configuration
+Management	N/A	N/A	N/A	CM 2 - 7	N/A
+Compliance	N/A	COMP 1 – 7	N/A	COMP 1 COMP-2 COMP 4 – 6
+COMP-10	N/A
+Cryptography and Encryption	N/A	N/A	N/A	CR-12	N/A
+Data Security	N/A	N/A	N/A	DS: 11 - 12	N/A
+Incident Management/ Privacy	N/A	IM 1 – 3	N/A	IM 1 – 5	N/A
+Information Systems	N/A	N/A	N/A	SI-15 SI-26
+SI 28 – 31	N/A
+Network and Telecommunications Security	N/A	NTS – 23 NTS-52	N/A	NTS 1 – 6
+NTS-9 – 11
+NTS-16 – 18
+NTS 23 – 26
+NTS-29 – 34
+NTS 38 – 39
+NTS 52	N/A
+Architecture	N/A	ARCH 15 - 16	N/A	ARCH 7 – 9
+ARCH 15 – 16	N/A
+Emerging Technology	N/A	IR 16 - 20	N/A	IR-12 – 20	N/A
+Security Risk Management	N/A	RM 26 - 33	N/A	RM 1 – 6 RM-10
+RM-12 – 16
+RM 18 – 19
+RM 22 -24 RM-34	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Assess/Evaluate
+
+Role Area: Incident Response and Handling
+
+Roles:
+•	Risk Executive
+•	Incident Response Personnel
+•	Digital Forensics Specialist
+•	System Administrator
+•	Network Administrators
+•	Business Contingency Planner
+•	IT Contingency Planner
+•	Damage Assessment Teams
+•	Information Systems Security Officer
+•	Computer Crime Investigator
+•	Incident Handler
+•	Incident Responder
+•	Intrusion Analyst
+•	System Evaluator
+
+
+Responsibility — Responds to crisis or urgent situations within the pertinent domain to mitigate immediate and potential threats. Uses planning, mitigation, preparedness, and response and recovery approaches, as needed, to maximize survival of life, preservation of property, and IT/cybersecurity. Investigates and analyzes all relevant response activities.
+
+Knowledge Units:
+•	Digital Forensics
+•	Computer Network Defense
+•	Incident Management
+•	Information Assurance
+•	Information Systems
+•	Network and Telecommunications Security
+•	Architecture
+•	Security Risk Management
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Digital Forensics	DF-1 DF-4	DF-6
+DF: 9 - 10
+DF: 23 - 26	DF-3 DF-27	DF-2 DF: 6 - 7 DF-9
+DF-11 DF-13 DF-15
+DF: 19 - 21
+DF: 27 - 29	DF-2 DF: 5 - 9
+DF: 11 - 18
+DF: 20 - 24
+DF: 28 - 31
+Computer Network Defense	CND-1 CND-11 CND-12 CND-18 CND-20	CND-9 CND-15 CND-29 CND-30	CND-2 CND-17	CND-2 CND-4 CND-6 CND-8
+CND: 13 - 14
+CND: 16 - 17 CND-19 CND-22
+CND-28	CND: 2 - 8 CND-10 CND-13 CND: 16 - 17 CND-19 CND: 21 - 28
+Incident Management	IR-1 IR-2 IR-20	IR-3 IR-6 IR-11
+IR: 15 - 16
+IR: 18 - 19	N/A	IR: 3 - 7 IR-10
+IR: 12 - 19	IR-3
+IR: 5 - 11
+IR: 13 - 15
+Information Assurance	IA-4	IA: 1 - 2
+IA-5	IA-3
+IA-6	IA: 6 - 9	IA-1
+IA-7
+Information Systems	SI: 5 - 7	SI: 26 - 27 SI-30	SI-4 SI-16 SI-18	SI-4
+SI: 11 - 12
+SI: 16 - 19 SI-24
+SI-26
+SI: 28 - 29 SI-31	SI: 12 - 13 SI-15
+SI-19 SI-23
+SI: 26 - 28 SI-30
+Network and Telecommunications Security	NTS: 15 – 16
+NTS: 22 - 24
+NTS: 34 - 35
+NTS: 42 - 43	NTS-7 NTS-9 NTS-27 NTS-36
+NTS: 38 - 39	NTS: 12 - 14 NTS-21 NTS-26 NTS: 30 – 31 NTS-31 NTS-41 NTS-44 NTS-47	NTS: 1 - 2
+NTS: 5 - 11
+NTS: 13 - 14 NTS-18 NTS: 20 – 21
+NTS: 25 – 26
+NTS: 28 - 33 NTS-37 NTS-39 NTS-44 NTS-52	NTS: 3 - 6 NTS-9 NTS-11 NTS-14
+NTS: 17 - 20 NTS-25 NTS: 27 – 28 NTS-33
+NTS-37 NTS: 39 - 40
+NTS-44 NTS-52
+Architecture	ARCH-18	N/A	ARCH-5 ARCH-17	ARCH-3 ARCH-7
+ARCH-13 ARCH-17	ARCH: 2 - 3 ARCH-13
+ARCH-17 ARCH-21
+Security Risk Management	RM: 5 - 6	RM: 25 - 26 RM-28 RM: 30 - 31	RM-8	RM-2 RM: 7 - 8 RM-10 RM-12
+RM: 14 - 16 RM-19
+RM: 21 - 22	RM: 1 - 4 RM-7 RM-9
+RM: 11 - 18 RM-24 RM: 32 - 34
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Assess/Evaluate
+
+Role Area: Computer Network Defense Infrastructure Support
+
+Roles:
+•	Network Security Personnel
+•	Enterprise Architect
+•	Information Systems Security Engineer
+•	IDS/IPS specialist
+•	IDS Administrator
+•	IDS Engineer
+•	IDS Technician
+•	Network Security Engineer
+•	Security Specialist
+•	Information Security Architect
+•	System Evaluator
+•	Penetration Tester
+•	Security Control Assessor
+
+
+Responsibility — Tests, implements, deploys, maintains, and administers the infrastructure hardware and software that are required to effectively manage the computer network defense service provider network and resources. Monitors network to actively remediate unauthorized activities.
+
+Knowledge Units:
+•	Digital Forensics
+•	Computer Network Defense
+•	Cryptography and Encryption
+•	Identity Management/Privacy
+•	Incident Management
+•	Information Assurance
+•	Information Systems
+•	Network and Telecommunications Security
+•	Architecture
+•	Security Risk Management
+•	Web Security
+ 
+
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Digital Forensics	N/A	DF 25 – 31	N/A	DF 1 – 4 DF-6
+DF 25 - 31	N/A
+Computer Network Defense	N/A	CND 1 – 30	N/A	CND 1 - 30	N/A
+Cryptography and
+Encryption	N/A	CR 1 - 5	N/A	CR 1 – 8
+CR 1- 15	N/A
+Identity Management/ Privacy	N/A	IM 1 – 3
+IM 9 - 11	N/A	IM 1 - 11	N/A
+Incident Management	N/A	IR 1 – 20	N/A	IR 1 - 20	N/A
+Information Assurance	N/A	IA 1 - 9	N/A	IA 6 - 8	N/A
+Information Systems	N/A	N/A	N/A	SI 26 - 31	N/A
+Network and Telecommunications
+Security	N/A	NTS 21 – 26	N/A	NTS 20 – 34
+NTS 37 – 39	N/A
+Architecture	N/A	N/A	N/A	ARCH 17 – 18	N/A
+Security Risk
+Management	N/A	RM 25	N/A	RM 4 – 8
+RM 10 - 16	N/A
+Web Security	N/A	N/A	N/A	WT 1 – 10	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Assess/Evaluate
+
+Role Area: Vulnerability Assessment and Management
+
+Roles:
+•	Risk Executive
+•	Information Security Architect
+•	Risk/Vulnerability Analysts
+•	Auditors
+•	Ethical Hacker
+•	Blue Team Technician
+•	Close Access Technician
+•	CND Auditor
+•	Compliance Manager
+•	Governance Manger
+•	Internal Enterprise Auditor
+•	Penetration Tester
+•	Red Team Technician
+•	Reverse Engineer
+•	Risk/Vulnerability Manger
+
+Responsibility — Conducts assessments of threats and vulnerabilities, determines deviations from acceptable configurations, enterprise or local policy, assesses the level of risk, and develops and/or recommends appropriate mitigation countermeasures in operational and non-operational situations.
+
+Knowledge Units:
+•	Digital Forensics
+•	Software
+•	Computer Network Defense
+•	Procurement
+•	Compliance
+•	Personnel Security
+•	Identity Management/Privacy
+•	Information Assurance
+•	Information Systems
+•	Network and Telecommunications Security
+•	Architecture
+•	Systems and Applications Security
+ 
+•	Security Risk Management
+
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage
+Design	Implement	Evaluate
+					
+Digital Forensics	N/A	N/A	N/A	DF 9 – 11	N/A
+Software	N/A	SW 28 – 30
+SW- 32	N/A	SW 22 – 27
+SW-31	N/A
+Computer Network Defense	N/A	CND-29 CND 16 – 20	N/A	CND-2 CND-4 CND-6 CND 8 – 13
+CND 16 – 20
+CND 22 – 30	N/A
+Procurement	N/A	PROC-3
+PROC-9	N/A	N/A	N/A
+Compliance	N/A	COMP 1 – 10	N/A	COMP 1 - 10	N/A
+Personnel Security	N/A	PS-1 – 4
+PS-11	N/A	PS-12	N/A
+Identity Management/ Privacy	N/A	IM 1- 3	N/A	IM 1 – 5
+IM 6 – 7	N/A
+Information Assurance	N/A	IA 1 – 5	N/A	IA 1 - 7	N/A
+Information Systems	N/A	N/A	N/A	SI-16
+SI 26 - 31	N/A
+Network and Telecommunications Security	N/A	NTS-39	N/A	NTS-15 NTS 21 – 28
+NTS 34 NTS-39	N/A
+Architecture	N/A	N/A	N/A	ARCH: 8 – 11
+ARCH: 17 - 18	N/A
+Systems and Applications Security	N/A	SAS-2 SAS-10 SAS-12
+SAS 14 – 24	N/A	SAS-2 SAS-10 SAS-12
+SAS 14 - 24	N/A
+Security Risk
+Management	N/A	RM 1 – 34	N/A	RM 1 - 34	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Respond/Investigate
+
+Role Area: Investigation
+
+Roles:
+•	Incident Response Team
+•	Computer Crime Specialist
+•	Special Agent
+•	Special Analyst
+•	Information System Security Engineer
+
+Responsibility — Applies tactics, techniques, and procedures for a full range of investigative tools and processes to include, but not limited to, analysis, interview and information gathering techniques. Processes appropriately balance the benefits of evidence gathering and safeguarding for prosecution.
+
+Knowledge Units:
+•	Digital Forensics
+•	Compliance
+•	Physical and Environmental Security
+•	IT Systems and Operations
+•	Security Risk Management
+
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Digital Forensics	N/A	DF-21
+DF 23 – 31	N/A	DF 1 - 31	DF 1 - 31
+Compliance	N/A	N/A	N/A	COMP 1 – 7
+COMP 9
+COMP 10	N/A
+Physical and
+Environmental Security	N/A	N/A	N/A	PES-1
+PES 4 – 6 PES-8	N/A
+Security Risk Management	N/A	RM-28 – 31	N/A	RM 1 – 7
+RM 10 – 2
+RM 24 – 28
+RM 32 - 34	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Respond/Investigate
+
+Role Area: Digital Forensics
+
+Roles:
+•	Certified Computer Examiner
+•	Digital Forensics Analyst
+•	Digital Forensics Engineer
+•	Digital Forensics Practitioner
+•	Digital Forensics Professional
+•	CND Forensic Analyst
+•	Forensics Analyst (cryptologic)
+•	Forensics Technician
+•	Digital Media Collector
+•	Digital Forensics Examiner
+•	Network Forensic Examiner
+•	Information System Security Engineer
+
+Responsibility — Collects, processes, preserves, analyzes, and presents computer-related evidence in support of network vulnerability mitigation and/or criminal, fraud, counterintelligence, or law enforcement investigations.
+
+Knowledge Units:
+•	Digital Forensics
+•	Software
+•	Computer Network Defense
+•	IT Systems and Operations
+•	Compliance
+•	Cryptography and Encryption
+•	Data Security
+•	Incident Management
+•	Information Assurance
+•	Information Systems
+•	Network and Telecommunications Security
+•	Architecture
+•	Security Risk Management
+•	Web Security
+ 
+
+
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage
+Design	Implement	Evaluate
+					
+Digital Forensics	N/A	N/A	N/A	DF 1 - 31	N/A
+Software	N/A	N/A	N/A	SW 22 – 27
+SW-30	N/A
+Computer Network Defense	N/A	N/A	N/A	CND 1 – 4
+CND 9 – 11 CND-13
+CND 16 – 21 CND-26	N/A
+IT Systems and Operations	N/A	N/A	N/A	ITOS-5
+ITOS-18 ITOS-21 ITOS-26	N/A
+Compliance	N/A	N/A	N/A	COMP 1 – 7
+COMP 10	N/A
+Cryptography and Encryption	N/A	N/A	N/A	CR 1 – 10
+CR-14 CR-15	N/A
+Data Security	N/A	N/A	N/A	DS-2
+DS-15	N/A
+Incident Management	N/A	N/A	N/A	IR 1 – 20	N/A
+Information Assurance	N/A	IA 1 – 5	N/A	IA 1 – 5
+IA-9	N/A
+Information Systems	N/A	N/A	N/A	SI 1 – 3
+SI 5 – 7
+SI 9 - 12	N/A
+Network and Telecommunications
+Security	N/A	N/A	N/A	NTS 22 – 34
+NTS: 37 – 41	N/A
+Architecture	N/A	N/A	N/A	ARCH 16 – 21	N/A
+Security Risk
+Management	N/A	N/A	N/A	RM 1 – 6
+RM 10 – 17	N/A
+Web Security	N/A	N/A	N/A	WT-6	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Oversight, Management and Development
+
+Role Area: Legal Advice and Advocacy
+
+Roles:
+•	Office of General Counsel Staff
+•	Legal Advisor/SJA
+•	Cyber Lawyer
+•	Authorizing Executive
+
+Responsibility — Provide legally sound advice and recommendations to leadership and staff on a variety of relevant topics within the pertinent subject domain. Advocates legal and policy changes and make a case on behalf of client via a wide range of written and oral work products, including legal briefs and proceedings.
+
+Knowledge Units:
+•	Procurement
+•	Compliance
+•	Cryptography and Encryption
+•	Emerging Technologies
+•	Security Risk Management
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Procurement	N/A	PROC-6	N/A	PROC: 6 - 9	N/A
+Compliance	N/A	N/A	N/A	COMP: 1 - 5
+COMP-10	N/A
+Cryptography and Encryption	N/A	CR-1	N/A	CR-1	N/A
+Emerging
+Technologies	N/A	ET-1	N/A	ET-1	N/A
+Security Risk Management	N/A	RM-30 RM-28
+RM-24	N/A	N/A	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+Function Area: Oversight, Management and Support Role Area: Strategic Planning and Policy Development Roles:
+•	Policy Analyst
+•	Security Policy Manager
+•	Policy Writer/Strategist
+•	IT Function Management
+•	IT Director
+•	Operations Management
+•	Heads of Government
+•	National Manager
+•	Program Manager
+•	Chief Technology Officer
+•	Chief Information Officer
+•	Command Information Officer
+•	IT/cybersecurity Policy Analyst
+•	IT/cybersecurity Policy Manager
+•	Risk Executive
+•	Mission/Business Owner
+
+a)	Responsibility — Applies knowledge of priorities to define an entity’s direction, determine how to allocate resources, and identify program or infrastructure that are required to achieve desired goals within domain of interest. Develops policy or advocates for changes in policy that will support new initiatives or required changes/enhancements.
+
+Knowledge Units:
+•	Computer Network Defense
+•	Procurement
+•	Compliance
+•	Architecture
+•	Physical and Environmental Security
+•	Information Assurance
+•	Architecture
+•	Security Risk Management
+•	Emerging Technologies
+ 
+
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Computer Network Defense
+Security	N/A	CND-10 CND-15 CND-18
+CND-29	N/A	CND-9 CND-12 CND-15	N/A
+Procurement	N/A	PROC-1	N/A	PROC: 1 - 5
+PROC: 7 - 12	N/A
+Compliance	N/A	COMP: 3 - 5	N/A
+COMP: 1 - 7
+COMP: 9 – 10	N/A
+Architecture	N/A	ARCH-15	N/A	ARCH-5 ARCH: 15 - 16
+ARCH-18	N/A
+Physical and Environmental
+Security	N/A	PES-1 PES-6
+PES-8	N/A	N/A	N/A
+Information
+Assurance	N/A	IA 1 – 7	N/A	IA 1 - 7	N/A
+Architecture	N/A	ARCH-15 ARCH-18	N/A	ARCH-5 ARCH-8 ARCH-13 ARCH: 15 - 16
+ARCH-18	N/A
+Security Risk Management	N/A	RM: 25 - 32	N/A	RM: 5 - 6
+RM-25 – 32	N/A
+Emerging
+Technologies	N/A	ET: 9 - 10	N/A	ET: 1 - 2
+ET: 6 - 11	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+Function Area: Oversight, Management and Support Role Area: Awareness, Education and Training Roles:
+•	Security Trainers
+•	End Users/System Users
+•	Training Coordinators
+•	Cyber Trainer
+•	IT/cybersecurity Trainer
+•	Human Resource Personnel
+
+Responsibility — Conducts training of personnel within pertinent subject domain. Develops, plans, coordinates, and evaluates training courses, methods, and techniques as appropriate.
+
+Knowledge Units:
+•	IT Security Awareness and Training
+•	Personnel
+•	Management
+
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+IT Security Awareness
+and Training	SAT 1 – 12	N/A	N/A	N/A	N/A
+Personnel	N/A	PS 1 – 2 PS-5
+PS-8
+PS: 11-12	N/A	N/A	N/A
+Management	N/A	PM-9 PM-12
+PM-53	N/A	N/A	N/A
+ 
+
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Operate and Maintain
+
+Role Area: Information Systems Security Operations
+
+Roles:
+•	Cybersecurity Officer
+•	Chief Information Technology Officer
+•	Enterprise Security Officer
+•	Information Technology Officer
+•	Senior Agency Information Technology Officer
+•	Risk Executive
+•	Mission/Business Owner
+•	Authorizing Officials
+•	Acquisition Official
+•	Procurement Officer
+
+Responsibility — Oversees the information assurance (IA) program of an information system in or outside the network environment may include procurement duties.
+
+Knowledge Units:
+•	Procurement
+•	Compliance
+•	Architecture
+•	Incident Management
+•	Information Assurance
+•	Information Systems
+•	Network and Telecommunications Security
+•	Systems and Applications Security
+•	Security Risk Management
+•	Procurement
+•	Identity Management/Privacy
+•	Emerging Technologies
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Procurement	N/A	PROC 1 – 12	N/A	N/A	N/A
+Compliance	N/A	COMP: 3 - 7
+COMP: 9 - 10	N/A	COMP 1 – 2
+COMP-6 - 10	N/A
+Architecture	N/A	N/A	N/A	ARCH 1 – 3
+ARCH 5 – 15 ARCH-18	N/A
+Incident Management	N/A	IR 1 – 3
+IR 6-7
+IR 11
+IR 16 - 20	N/A
+IR 12 – 20	N/A
+Information Assurance	N/A	IA 1 – 5
+IA-9	N/A	IA 1 – 9	N/A
+Information Systems	N/A	SI 26 - 30	N/A	N/A	N/A
+Network and Telecommunications
+Security	N/A	NTS 21 – 28
+NTS 33- 35
+NTS 38 – 39	N/A	NTS 30 - 31	N/A
+Systems and Applications Security	N/A	SAS 10 – 12
+SAS-14 – 26
+SAS 28 – 34	N/A	N/A	N/A
+Security Risk Management	N/A	RM 1 - 34	N/A	RM 1 – 34	N/A
+Procurement	N/A	PROC 7 – 12	N/A	N/A	N/A
+Identity Management/ Privacy	N/A	IM 1 – 3
+IM 7 - 11	N/A	IM 4 – 6 IM-7
+IM-11	N/A
+Emerging Technologies	N/A	ET-1 ET-7
+ET-9 – 11	ET-1	N/A	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Oversight, Management and Development
+
+Role Area: Security Program Management
+
+Roles:
+•	Information Assurance Manager (IAM)
+•	Information Assurance Security Officer (IASO)
+•	Information Security Officer (ISO)
+•	Information Security Program Manager
+•	Information Systems Security Manager (ISSM)
+•	Information Systems Security Officer (ISSO)
+•	Security Program Director/Risk Executive
+•	CISO/SAISO
+•	Common Control Provider
+•	It Function Management/IT Director
+•	End Users/Systems Users
+•	Cloud Providers
+•	Enterprise Security Officer
+•	Facility Security Officer
+•	Principle Security Architect
+•	Senior Agency Security Officer
+•	Enterprise Architect/Information Security Architect
+
+Responsibility: Concentrates on protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction to provide confidentiality, integrity and availability. Manages IT/cybersecurity implications within the organization, specific program, or other area of responsibility, to include strategic, personnel, infrastructure, policy enforcement, emergency planning, security awareness, and other resources.
+
+Knowledge Units:
+•	Digital Forensics
+•	Computer Network Defense
+•	Procurement
+•	Compliance
+•	Cryptography and Encryption
+•	Incident Management
+•	Information Assurance
+•	Information Systems
+ 
+•	Network and Telecommunications Security
+•	Architecture
+•	Security Risk Management
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Digital Forensics	DF-4 DF-10	DF-1 DF-6
+DF 23 – 26	DF-3 DF-6 - 7
+DF-25 - 26	DF-1 DF-3 DF-6	N/A
+Computer Network Defense	CND-15 CND 17 - 18	CND 11 - 12 CND-29	CND-1 CND-2 CND-4	CND-1 CND-2 CND-4
+CND-12	CND-10
+Procurement	PROC-1 PROC-11	PROC-2 PROC-4 PROC-6 PROC-8
+PROC-12	N/A	PROC-9	N/A
+Compliance	COMP-10	COMP-1 COMP 3 – 5 COMP-7	COMP-6 COMP-9	N/A	COMP-2 COMP-5 COMP-8
+Cryptography and Encryption	N/A	CR 1 - 5 CR-10 CR-12	N/A	N/A	N/A
+Incident Management	N/A	IR 1 - 3 IR-6
+IR-11 IR-16 IR-18 IR-20	N/A	N/A	N/A
+Information Assurance	N/A	IA 1 - 7 IA-9	N/A	N/A	N/A
+Information Systems	N/A	SI-26 SI-28 SI-30	N/A	N/A	N/A
+Network and Telecommunications	N/A	NTS-7 NTS-9
+NTS 13 - 14
+NTS 16 - 17
+NTS-23 - 24 NTS-28 NTS-34 - 36
+NTS-41 - 42	N/A	N/A	N/A
+Architecture	N/A	ARCH-5 ARCH 8 - 10
+ARCH-12 - 15 ARCH-18	N/A	N/A	N/A
+Security Risk Management	RM-30 RM-31	RM-3 RM-5 - 6
+RM 26 - 28	N/A	N/A	N/A
+ 
+
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Oversight, Management and Development
+
+Role Area: Management
+
+Roles:
+•	Chief Information Officer (CIO)
+•	Authorizing Official
+•	Risk Executive
+•	Senior Management
+•	Senior Systems Manger
+•	Program Manager
+•	Project Manager
+•	Functional Manager
+•	Chief Information Security Officer (CISO)
+
+Responsibility — Manages information programs and the security implications within the organization, specific program, or other area of responsibility, to include strategic, personnel, infrastructure, policy enforcement, emergency planning, security awareness, and other resources.
+
+Knowledge Units:
+•	Management
+•	Compliance
+•	Procurement
+•	Identity Management/Privacy
+•	Information Assurance
+•	IT Security Awareness and Training
+•	Personnel Security
+•	Security Risk Management
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Management	N/A	PM 1 - 53	N/A	N/A	N/A
+Compliance	COMP-1 COMP 4 - 5	COMP-3 COMP-6 – 7
+COMP 9 - 10	N/A	COMP-2 COMP 9 - 10	COMP-8
+Procurement	N/A	PROC 1 - 4
+PROC 6 - 9
+PROC-11 - 12	N/A	N/A	PROC-2
+Identity Management/
+Privacy	N/A	IM 1 - 3
+IM 7 - 11	N/A
+N/A	N/A
+Information Assurance	N/A	IA 1 -7
+IA-9	N/A	N/A	N/A
+IT Security Awareness and Training	N/A	SAT-1 SAT-3 SAT 5 – 6
+SAT 9 - 12	N/A	N/A	N/A
+Personnel Security	N/A	PS 1 - 4
+PS 6
+PS 8 – 12	N/A	N/A	N/A
+Security Risk Management	N/A	RM 3 - 6 RM-9
+RM 18 – 20
+RM 25 – 33	N/A	N/A	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Oversight, Management and Development
+
+Role Area: Privacy
+
+Roles:
+•	Chief Privacy Officer
+•	Privacy Act Officer/Official
+•	Privacy Information Professional
+•	Privacy Officer
+•	Senior Agency Official for Privacy
+•	Human Resources
+•	Health Care Officer
+•	Project/Program Manager
+•	Information/Business Owner
+
+Responsibility: Developing and managing an organization’s privacy compliance program. Establishes a risk management framework and governance model to assure the appropriate handling of Personally Identifiable Information (PII), and ensures that PII is managed throughout the information life cycle – from collection to disposal.
+
+Knowledge Units:
+•	Compliance
+•	Identity Management/Privacy
+•	Incident Management
+•	IT Security Awareness and Training
+•	Management
+•	Personnel Security
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Compliance	N/A	COMP-2
+COMP 4 - 7	N/A	COMP-2
+COMP 4 - 5	COMP-8
+Identity Management
+/Privacy	N/A	IM-1 IM-3
+IM-7 IM-9	N/A	IM 1 - 5
+IM 8 - 11	N/A
+Incident Management	N/A	IR-1 IR-6 IR-16
+IR-18 – 20	N/A
+IR: 15 - 16	IR-17
+IT Security
+Awareness and Training	N/A	SAT-1 SAT 3 - 4	N/A	SAT 11 - 12	N/A
+Management	N/A	PM-1 – 3 PM-8
+PM-11 - 13 PM-15
+PM-23 PM-26 PM-34 PM-46 PM-49
+PM-51	N/A	PM-5 - 7	N/A
+Personnel Security	N/A	PS-3 PS-5 - 7
+PS-1 – 12	N/A	PS-12	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Oversight, Management and Development
+
+Role Area: Procurement
+
+Roles:
+•	Authorizing Official
+•	Acquisition Official
+•	Procurement Officer
+•	Management
+•	Contracting Officers
+•	System Owner
+•	Mission/Business Owner
+•	Program Manager
+•	Project Manager
+•	Budgeting Officer
+
+Responsibility – Procures resources as needed. Develops and executes contracts to include security controls. Ensures deliverables are compliant with Federal and Organizational security control requirements.
+
+Knowledge Units:
+•	Procurement
+•	Management
+•	Compliance
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Procurement	PROC 1 - 2	PROC 6 - 9  PROC-
+11 - 12	N/A	PROC-3 - 9	PROC-4 PROC-10
+Management	PM-37	PM-1 - 4 PM-8 PM-10 PM-12 PM-14 PM-16
+PM-22 - 23 PM-25
+PM-32 - 33	N/A	PM-4 PM-6 - 8
+PM-32 - 33	N/A
+Compliance		COMP-1 COMP-3 - 5
+COMP-7		COMP-2 - 5	
+ 
+
+ 
+INFORMATION TECHNOLOGY/CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Oversight, Management and Development
+
+Role Area: Personnel Security
+
+Roles:
+•	Hiring Manager
+•	Human Resources Manager
+•	First Responders
+
+Responsibility – Responsible for hiring, termination and training of the IA workforce. Ensures background checks are completed. Assists with implementing the need-to-know concept. Key player in the business contingency planning and execution.
+
+Knowledge Units:
+•	Management
+•	Personnel Security
+•	Security Risk Management
+•	IT Security Awareness and Training
+•	Compliance
+•	Identity Management/Privacy
+•	Incident Management
+ 
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Management	N/A	PM 1 - 4
+PM-6 - 8
+PM-11 - 15 PM-17
+PM-19 PM-23 PM-25
+PM-34 - 36 PM-46
+PM-48 - 51	N/A	PM: 7 - 8 PM-11	N/A
+Personnel Security	N/A	PS-1 - 12	N/A
+PS-1 - 12	N/A
+Security Risk
+Management	N/A	RM-25 - 31	N/A	N/A	N/A
+IT Security Awareness and
+Training	N/A	SAT-3 SAT-6
+SAT-10	SAT-1 - 3
+SAT-5 - 7 SAT-9	SAT-4 SAT-8
+SAT-1 – 12	N/A
+Compliance	N/A	COMP 1 - 7	COMP-8	COMP-1	N/A
+Identity Management/
+Privacy	N/A	IM-1 - 3
+IM-7 - 11	N/A	IM-10	N/A
+Incident Management	N/A	IR-1 IR-6 IR-15 IR-20	N/A	IR-19	N/A
+ 
+INFORMATION TECHNOLOGY/ CYBERSECURITY TRAINING
+Module for Roles
+
+
+Function Area: Oversight, Management and Development
+
+Role Area: Physical and Environmental Security
+
+Roles:
+•	Facility Security Officer
+•	Physical Security Administrator
+•	Physical Security Officer
+•	First Responders
+•	Physical Security Professional
+•	Risk Executive
+
+Responsibility – Ensures implementation and maintenance of physical security controls both in buildings hosting personnel as well as datacenters. Key player in contingency planning activities.
+
+Knowledge Units:
+•	Compliance
+•	Enterprise Continuity
+•	Incident Management
+•	Industrial Controls Systems
+•	Physical and Environmental Security
+•	Security Risk Management
+
+Corresponding Knowledge and Skills
+
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+					
+Compliance	N/A	COMP-3 -5 COMP-7 COMP-
+9	N/A	N/A	COMP-8
+Enterprise Continuity	N/A	ECP: 1 - 2 ECP: 5
+-6 ECP-9
+ECP: 14 – 16	ECP-3 ECP-7 - 8	ECP: 1 -2 ECP-5
+ECP: 14 - 18	ECP: 1 - 2 ECP-4 ECP-7
+ECP: 10 - 13
+Incident Management	N/A	IR: 1 - 3 IR-6
+IR-12 IR-20	N/A	IR-12 IR-14 IR-19	IR-15
+Industrial Controls
+Systems	N/A	ICS: 1 – 2	N/A	ICS: 2 - 7	N/A
+Physical and
+Environmental Security	N/A	PES-1
+PES-6 PES-8	N/A	PES: 1 - 9	N/A
+ 
+Knowledge Unit	All	Manage	Design	Implement	Evaluate
+Security Risk
+Management	N/A	RM: 25 - 28 RM:
+30 – 31	RM-8	RM-29
+RM-30	RM-9
+RM: 25 - 26
+Appendix D: Sample Evaluation Forms
+
+
+Evaluation Objectives
+Levels of	Level 1:
+Level 2:	Level 3:	Level 4:
+Evaluation Student	Satisfaction	Learning	Performance	Training
+		Effectiveness	Effectiveness	Program
+				Effectiveness
+Type of Training	How well did	How did the	How well is the	Did the number
+CyberSecurity	the student think	majority of	student using the	and severity of
+	he/she grasped	students perform	core skill set in	security
+	the security	on the test, (e.g.,	his or her daily	incidents go
+	concepts? For	do aggregated	activities	down as a
+	CBT, how many	post-test answers	routine?	result? Did the
+	attempts did it	show sufficient		cost of security
+	take for the	improvement		compliance go
+	student to pass	over pre-test		down? If so,
+	the test?	answers)?		how much?
+Training	How well did	Did the training	How well is the	Did the number
+	the training	program	student applying	and severity of
+	program fit the	demonstrably	the new security	security
+	student’s	and sufficiently	skills to	incidents go
+	expectations?	increase the	functional job	down as a
+		scope and/or	requirements?	result? Did the
+		depth of the		cost of security
+		student’s skill		compliance go
+		set?		down? If so,
+				how much?
+ 
+Education	Did the course of study advance the student’s career development or professional qualifications in IT/cybersecurity
+?	Could the student apply the increased knowledge to a real world situation adequately?	How well is the student’s acquired IT/cybersecurity knowledge being used to advance agency goals & objectives?	Did the number and severity of security incidents go down as a result? Did the cost of security compliance go down? If so, how much?
+
+ 
+Sample Questionnaire — Level 1 Evaluation Training Assessment by Student
+
+
+1.	Indicate your highest level of education:	
+	High School graduate or less Some college/technical school
+Associate degree or technical certification	Bachelor’s Degree Master’s Degree
+Doctorate
+
+2.	Indicate the total number of courses you have completed in subject areas related to this training:
+0	1-4	5-10	11-15	More than 15
+3.	Indicate how long it has been since you took a course in the subject area of this training: This is my first course in this subject	4-6 years
+Less than 1 year	More than 6 years 1-3 years
+4.	Indicate the extent of your work experience in the general subject areas of this training:
+
+None	1-3 years	More than 6 years
+Less than 1 year	4-6 years	
+5.	For my preparation and level of knowledge, the training was:
+
+Too elementary	Somewhat difficult	About right
+Somewhat elementary	Too difficult	
+6.	The pace at which the subject matter was covered was:
+
+Too slow	Somewhat fast	About right
+Somewhat slow	Too fast	
+7.	For what I got out of this training, the workload was: Light
+About right Heavy
+8.	Considering my previous experience with this subject matter, the course content was: Out of date
+Somewhat current Current
+ 
+9.	Which of the following best describes the usefulness of this training for your job:
+
+
+
+
+
+
+
+ 
+
+Not particularly useful	Very useful
+Somewhat useful	Essential
+
+10. How much did you learn from this training: Not much	A moderate amount
+A great deal
+
+Please send any suggestions to:
+
+Student Perception of Instructor
+Extent to which the instructor successfully:	Excellent	Good	Fair	Poor	N/A	Comments
+1. Presented material in an organized manner						
+2. Communicated knowledge of the subject matter						
+3. Made difficult concepts understandable						
+4. Used class time effectively						
+5. Stimulated interest in the subject area						
+6. Demonstrated positive attitude toward participants						
+7. Overall, I would rate this instructor						
+Student Perception of Course Quality	
+Course content:	Excellent	Good	Fair	Poor	N/A	Comments
+1. Clarity of course objectives						
+ 
+2. Agreement between course objectives and course content						
+
+ 
+3. Agreement between Tests/Exams and course objectives						
+4. Degree to which the organization of the course enhanced my						
+5. Opportunities to practice/apply course content during						
+6. Effectiveness of textbook(s), handouts, or other material						
+7. Quality of classroom/lab facilities						
+8. Overall, I would rate this course						
+
+Exhibit C-2 Sample Questionnaire — Level 1 Evaluation Training Assessment by Student
+ 
+Sample Questionnaire — Level 3 Evaluation Training Assessment by Supervisor
+SECTION I - COURSE RELATION TO JOB REQUIREMENTS
+1.	What was the chief reason for nominating the employee for this course? Information is required in present job
+Information is required in new job
+Course provides prerequisite or background for other training Course is required to meet certification
+Course provides general career development Other (please specify)
+2.	Considering past experience/training and present/future job assignments, how well timed was this course in the employee’s career?
+Took before needed Took when needed
+Needed course earlier, but wasn’t offered Needed course earlier, but couldn’t get in
+Didn’t need course and probably will never use it Unable to assess at this time
+3.	Which of the following best describes the usefulness of this training for the employee’s job? Essential
+Very useful Somewhat useful
+Not particularly useful Unable to assess at this time
+4.	How frequently does the employee need the skills or knowledge acquired in this course? Daily
+Weekly Periodically
+Not currently used, but needed for background or future use Criteria does not apply to this course
+
+SECTION II - COURSE IMPACT ON EMPLOYEE PERFORMANCE
+Rate the degree to which the employee’s information-related job performance was affected by the training in this course.
+Job Impact	1	2	3	4	5
+ 
+Knowledge of IT/cyber
+security- related job duties					
+
+
+ 
+Technical skills (include applicable language-related skills)					
+Productivity					
+Accuracy					
+Use of job aids (e.g., reference aids, software applications)					
+
+ 
+Overall work quality:
+Legend:
+1 = Greatly improved	3 = Moderately improved	5 = Not applicable
+2 = First-time impact	4 = No change
+
+SECTION III - RETURN ON TRAINING INVESTMENT
+1.	How would you describe the trade-off between the employee’s time away from the job versus IT/cybersecurity-related benefits from taking this course?
+
+Great benefits from training offset employee time away from the job Modest benefits from training offset employee time away from the job Benefits from training did not offset employee time away from the job Do not have enough information to respond
+Benefits from this course can not be measured in this manner
+2.	How would you respond if another employee from your area needed/wanted to take this course?
+Would definitely nominate others if I knew the course was applicable to their duties Would not nominate others because 	 Would nominate others only if the following course changes were made:
+Do not have enough information to decide.
+
+3.	How knowledgeable were you about the course content before receiving this form?
+I had read the catalog description or brochure and knew the expected Learning Objectives. I had read the catalog description or brochure but did not know the expected Learning Objectives.
+I knew the overall purpose or goal of the course but did not read a detailed description of it and did not know the expected Learning Objectives.
+I only knew the course existed.
+I knew nothing about the course until I received this form.
+
+4.	As a supervisor, how satisfied are you with the training results from this course?
+ 
+Appendix E: Glossary
+
+•	Awareness - the ability of the user to avoid behaviors that would compromise cybersecurity; practice good behaviors that will increase cybersecurity; and act wisely and cautiously, where judgment is needed, to increase cybersecurity.
+•	Awareness Training - managers must ensure that all users are provided awareness training, and that those identified as having significant responsibilities for IT/cybersecurity are properly trained.
+•	Base knowledge - the familiarity, awareness, or understanding of security gained through experience or study.
+
+•	Competency – being qualified based on demonstration of an acceptable level of skills.
+
+•	Computer Literacy - an individual’s familiarity with a basic set of knowledge with computers.
+
+•	Cybersecurity Essentials - the transitional stage between “Basic Awareness” and “Role-based Training.” It provides the foundation for subsequent specialized or role-based training by providing a universal baseline of key security terms and concepts.
+
+•	Cybersecurity Learning Continuum - shows a progression of learning across the spectrum of roles within an organization.
+
+•	Definition - provides a definition of the function.
+•	Education - knowledge or skill obtained or developed by a learning process.
+
+•	ITL – the Information Technology Laboratory (ITL) at the National Institute of Learning Objectives(s): Identifies the outcomes the training module should strive to meet for each of the functions and their associated roles.
+
+•	Job Function - action for which a person or thing is particularly fitted or employed.
+
+•	Knowledge Unit – the combination of information needed to perform a function or activity effectively and efficiently.
+
+•	Literacy – an individual’s familiarity with a basic set of knowledge.
+ 
+•	Proficiency - the state or quality of being competent
+•	Role - the responsibility and functions that a person is currently performing within their agency; are established by individual Federal Organization or Agency through position descriptions, hierarchy charts, responsibilities, etc.
+
+•	Role Areas - identifies various roles that are covered by the function. These roles are guidelines and may exist under different names within a particular Agency.
+
+•	Security Awareness - managers must ensure that all users are provided security awareness, and that those identified as having significant responsibilities for information technology/cybersecurity are properly trained.
+
+•	Security Literacy – an individual’s familiarity with a basic set of knowledge with security principles and practices.
+
+•	Skills – combination of ability, knowledge, and experience that enables a person to do something well.
+
+•	Standards and Technology - develops tests, test methods, reference data, proof of concept implementations, and technical analyses to advance the development and productive use of information technology.
+
+•	Training - the action provided to a user in the acquisition of knowledge, skills, and competencies in the security arena.
+ 
+Appendix F: Acronyms
+AT – Awareness and Training CBT – Computer Based Training
+CISO – Chief Information Security Officer
+CISSO – Computer Information Systems Security Officer CIO – Chief Information Officer
+CLO – Chief Learning Officer CP – Contingency Planning DLP – Data Loss Prevention
+FIPS – Federal Information Processing Standards FISMA – Federal Information Systems Management Act
+FISSEA – Federal Information Systems Security Education Association IA – Information Assurance
+IAM – Information Assurance Manager ICS – Industrial Control Systems
+IDLS – Instructional Development Learning Systems IDP – Intrusion Detection Prevention
+IDS – Intrusion Detection Systems IR – Incident Response
+ISSO – Information Systems Security Officer IT – Information Technology
+ITL – Information Technology Laboratory
+NICCS – National Initiative for Cybersecurity Careers and Studies NICE – National Initiative for Computer Education
+NIST – National Institute for Standards and Technology OJT – On-the-Job Training
+OMB – Office of Management and Budget OPM – Office of Personnel Management PCI – Payment Card Industry
+PII – Personal Identification Information PM – Program Manager
+ROI – Return on Investment
+SAISO – Senior Agency Information Security Officer SME – Subject Matter Expert
+TWG – Technical Working Group VOIP – Voice Over IP
+ 
+Appendix G: References
+
+•	FIPS 199 – entitled, “Standards for Security Categorization of Federal Information and Information Systems,” provides guidance on how to develop standards for categorizing information and information systems
+
+•	FIPS 200 – entitled, “Minimum Security Requirements for Federal. Information and Information Systems,” introduces awareness and training as one of the seventeen areas (called “families”) of minimum security requirements identified to protect the confidentiality, integrity, and availability of Federal information systems and the information processed, stored, and transmitted by those systems.
+
+•	NIST SP 800-100 – entitled, “Information Security Handbook: A Guide for Managers” describes how to manage information security in your organization.
+
+•	NIST SP 800-37 – entitled, “Guide for Applying the Risk Management Framework to Federal Information Systems,” addresses the risk-based approach to security control selection and specification considers effectiveness, efficiency, and constraints due to applicable laws, directives, Executive Orders, policies, instructions, standards, Instructions, or regulations.
+•	NIST SP 800-50 – entitled, “Building an Information Technology Security Awareness and Training Program,” describes the following key approaches of an IT/cybersecurity awareness and training program that “Federal Organizations” (i.e., Federal agency/departments, Agencies or organizations) should follow.
+•	NIST SP 800-53 – entitled, “Security and Privacy Controls for Federal Information Systems and Organizations,” provides more detail to the awareness and training area identified in FIPS 200 and provides levels for each control, dependent upon the system categorization and corresponding baseline.
+
+•	NIST SP 800-53A – entitled, “Guide for Assessing the Security Controls in Federal Information Systems,” provides guidelines for the assessment of the effectiveness of implemented awareness and training controls within an organization.
+
+•	NIST SP 800-160 – entitled, “Systems Security Engineering,” provides a definition and discussion of Systems Security Engineering as an engineering discipline.
+
+•	The National Initiative for Cybersecurity Education (NICE) - developed the National Cybersecurity Workforce Framework (“the Framework”) to provide a
+ 
+common understanding of and lexicon for cybersecurity work.
